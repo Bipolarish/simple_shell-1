@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # shellby - Simple Shell :shell:
 
 A simple UNIX command interpreter written as part of the low-level programming and algorithm track at Holberton School.
@@ -44,3 +45,6 @@ $ ./shellby test
 'hello'
 $
 ```
+=======
+readme
+>>>>>>> 894da359f5ce2f88cd225602cac7f65d018fbd29
